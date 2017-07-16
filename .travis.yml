@@ -4,6 +4,7 @@ rvm:
   - 2.0.0
   - 1.9.3
 
+
 before_install:
  - gem install ruby-debug-ide
  - nvm install v6.9.1
